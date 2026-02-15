@@ -1,6 +1,6 @@
 # Albert Richard Moraes Lopes
 
-## Engenheiro da Computação | Dados & Arquitetura de Sistemas  
+## Engenheiro de Computação | Dados, Modelagem e BI | SQL • Excel • Power BI • Python  
 Transformo complexidade técnica em estruturas organizadas e confiáveis.
 
 ---
@@ -12,6 +12,8 @@ Sou Engenheiro da Computação com atuação focada em **estruturação, modelag
 Minha trajetória passou por supercomputação, administração de clusters Linux, telecomunicações, docência universitária e desenvolvimento Android. Embora diversa, há uma constante: organizar sistemas complexos e torná-los funcionais, escaláveis e compreensíveis.
 
 Hoje direciono minha energia para **Análise de Dados e organização de bases analíticas**, aplicando mentalidade de engenharia para transformar dados dispersos em informação estruturada e confiável.
+
+Para quem deseja entender minha trajetória completa, escrevi um relato detalhado aqui: [Medium](https://medium.com/@albertrml.dev/da-infraestrutura-aos-dados-organizando-complexidade-ao-longo-da-minha-carreira-51e9bebd1d4d)
 
 ---
 
